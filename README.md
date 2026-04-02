@@ -11,4 +11,4 @@ This is a simple calculator built using:
 - Clean UI
 
 ## Live Demo
-[https://yourusername.github.io/calculator-project/](https://github.com/Vedantsavekar/Calculator-Project)
+https://github.com/Vedantsavekar/Calculator-Project
