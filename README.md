@@ -1,2 +1,14 @@
-# Calculator-Project
-A modern calculator web app built using HTML, CSS, and JavaScript with support for basic arithmetic operations, percentage calculation, and a clean gradient UI.
+# Calculator Project
+
+This is a simple calculator built using:
+- HTML
+- CSS
+- JavaScript
+
+## Features
+- Addition, Subtraction, Multiplication, Division
+- Percentage support
+- Clean UI
+
+## Live Demo
+[https://yourusername.github.io/calculator-project/](https://github.com/Vedantsavekar/Calculator-Project)
