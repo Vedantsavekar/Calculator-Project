@@ -44,7 +44,7 @@ calculator-project/
 
 ## 📸 Screenshot
 
-
+![Calculator UI](Calculator(1).png)
 
 ---
 
