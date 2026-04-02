@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>
+			Calculator
+		</title>
+		<link rel="stylesheet" href="Calculator.css">
+		<script src="Calculator.js" defer>
+		</script>
+	</head>
+	
+	<body>
+		<div class="calculator">
+
+			<!-- Display -->
+			<div class="display">
+				<div id="history" class="history"></div>
+				<div id="result" class="result">0</div>
+			</div>
+
+			<!-- Buttons -->
+			<div class="buttons">
+
+				<button onclick="clean()" style="color: purple">Clear</button>
+				<button class="operator" onclick="operator('/')">÷</button>
+				<button class="operator" onclick="operator('*')">×</button>
+				<button onclick="erase()" style="color: purple">CE</button>
+
+				<button onclick="num(7)">7</button>
+				<button onclick="num(8)">8</button>
+				<button onclick="num(9)">9</button>
+				<button class="operator" onclick="operator('-')">-</button>
+
+				<button onclick="num(4)">4</button>
+				<button onclick="num(5)">5</button>
+				<button onclick="num(6)">6</button>
+				<button class="operator" onclick="operator('+')">+</button>
+
+				<button onclick="num(1)">1</button>
+				<button onclick="num(2)">2</button>
+				<button onclick="num(3)">3</button>
+				<button class="equal" onclick="equal()">=</button>
+
+				<button onclick="percent()">%</button>
+				<button onclick="num(0)">0</button>
+				<button onclick="decimal()">.</button>
+
+			</div>
+		</div>
+	</body>
+</html>
